@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHolt193
 - 👀 I’m interested in work as a web developer
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on anything! Feel free to reach out!
 - 📫 How to reach me: [michaelholt.dev](https://michaelholt.dev)
 
